@@ -92,7 +92,7 @@ def build_log(ent, tp):
         #print date_array(ent),t, data
         kount[t]+=1
         if t == "ambit_log_sample_type_gps_tiny":
-            pass#gps_tiny(ent)
+            gps_tiny(ent)
         if t == "ambit_log_sample_type_altitude_source":
             alt_source(ent)
 
