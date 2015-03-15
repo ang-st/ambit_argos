@@ -1,0 +1,3 @@
+[submodule "openambit"]
+	path = openambit
+	url = git@github.com:openambitproject/openambit.git
