@@ -11,7 +11,7 @@ soit
 * capteur o2
 * barometre + temperature
 
-* ecran tft
+* ecran i2c lcd 
 
 
 ###mode de fonctionnement
