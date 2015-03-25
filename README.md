@@ -23,22 +23,22 @@
     * ctypes
     * https://code.google.com/p/ctypesgen/ 
 
-###mode de fonctionnement
+### mode de fonctionnement
 ~en fontion du device inseré (detection via udev)
 * arduino raspberry pi
-    *   simple proto port serie arduino for sensor value
-        ```
-    { id="co2","x":value_x,"y":value_y}
-        ```
+    *   simple proto port serie arduino for sensor values
 
 * watches
      * usb openambit crappy C wrapper and ctype (arch dependent)
      * some message yet to be decoded..  (cardio .)
 
-* TODO
+### TODO
 
+* interface !!
 * mesure capteur
-* envoie sur argos
+* envoi sur argos
+    * http://www.argos-system.org/web/en/293-become-a-user.php
+    
 
 
 
