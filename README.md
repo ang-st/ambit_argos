@@ -28,7 +28,7 @@
 * arduino raspberry pi
     *   simple proto port serie arduino for sensor values
 
-* watches
+* ambit watche
      * usb openambit crappy C wrapper and ctype (arch dependent)
      * some message yet to be decoded..  (cardio .)
 
