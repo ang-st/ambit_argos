@@ -26,14 +26,14 @@
 ###mode de fonctionnement
 ~en fontion du device inseré (detection via udev)
 * arduino raspberry pi
-simple proto port serie arduino for sensor value
-```
+    *   simple proto port serie arduino for sensor value
+        ```
     { id="co2","x":value_x,"y":value_y}
-```
+        ```
 
 * watches
-     usb openambit crappy C wrapper and ctype (arch dependent)
-     some message yet to be decoded..  (cardio .)
+     * usb openambit crappy C wrapper and ctype (arch dependent)
+     * some message yet to be decoded..  (cardio .)
 
 * TODO
 
