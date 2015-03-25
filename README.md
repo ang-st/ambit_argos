@@ -26,11 +26,11 @@
 ### mode de fonctionnement
 ~en fontion du device inseré (detection via udev)
 * arduino raspberry pi
-    *   simple proto port serie arduino for sensor values
+    *   simple proto port serie rpi <-> arduino  pour les valeurs de sensors.
 
 * ambit watche
      * usb openambit crappy C wrapper and ctype (arch dependent)
-     * some message yet to be decoded..  (cardio .)
+     * "some message yet to be decoded.."  (cardio .)
 
 ### TODO
 
