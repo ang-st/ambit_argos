@@ -7,7 +7,7 @@
 * android device sous linux ?
 
 * ![setup1](img/ambit_setup.jpg)
-* ![schema](img/schem1.jpg)
+* ![schema](img/schem_1.jpg)
 
 ### devices 
 * montre ambit3 
