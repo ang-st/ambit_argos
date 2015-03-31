@@ -19,8 +19,11 @@
 * barometre + temperature
 * ecran i2c lcd 
 
-* argos radio device ?
-    TBD
+* argos 
+    * 248 bits per message including checksum 
+    * unidirectionnal
+    * 2/4 emitting window / day 
+    
 
 ### tools
     * ctypes
